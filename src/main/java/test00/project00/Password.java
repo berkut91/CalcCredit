@@ -30,6 +30,7 @@ public Password(FormManager manager) {
 	*Объявление имени формы
 	*/
 setTitle("Кредитор");
+  /**  this.getContentPane().setBackground(Color.blue);
 /**
 *Задание размеров формы
 */
