@@ -34,6 +34,7 @@ public Client(FormManager manager) {
 * Объявление имени формы
 */
 setTitle("Клиент");
+  /**  this.getContentPane().setBackground(Color.blue);
 /**
 * Установка размеров для окна Клиент
 */
