@@ -34,6 +34,7 @@ setPreferredSize(new Dimension(410, 370));
 *Установка оптимального размера для формы
 */
 pack();
+  /**  this.getContentPane().setBackground(Color.blue);
 /**
 * Задание параметров установки панели
 */
