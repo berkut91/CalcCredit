@@ -34,6 +34,7 @@ public Creditor(FormManager manager) {
 *Обьявление имени формы
 */
 setTitle("Кредитор");
+/**  this.getContentPane().setBackground(Color.blue);
 /**
 * Установка размеров для окна Кредитор
 */
